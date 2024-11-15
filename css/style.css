@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1e3e62;
+}
+h1 {
+  font-family: "Freeman", sans-serif;
+  font-size: 80px;
+}
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+.rez {
+    padding: 20px 90px;
+    color: black;
+    font-size: 25px;
+    background-color: #1A3636;
+}
+.color-one-p {
+    color: #D6BD98;
+}
